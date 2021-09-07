@@ -3,7 +3,6 @@ import Web3 from "web3";
 import "./App.css";
 import Navbar from"./nav.js"
 import Footer from "./footer";
-
 import Meme from "../abis/NftDay.json";
 
 const isOnTestnetMumbai = true;
@@ -183,7 +182,7 @@ class App extends Component {
             <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
-                <a href="" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Margotte83/MyPictureDay" target="_blank" rel="noopener noreferrer">
                   <img
                       src={`https://ipfs.infura.io/ipfs/${this.state.memeHash}`}
                   />
@@ -205,7 +204,7 @@ class App extends Component {
         <div>
         <div class="alert alert-primary" role="alert">
         Your Wallet: {this.state.account}
-</div>
+        </div>
           <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
