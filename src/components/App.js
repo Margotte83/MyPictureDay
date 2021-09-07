@@ -182,12 +182,12 @@ class App extends Component {
             <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
-                <a href="https://github.com/Margotte83/MyPictureDay" target="_blank" rel="noopener noreferrer">
+                <a href="" target="_blank" rel="noopener noreferrer">
                   <img
                       src={`https://ipfs.infura.io/ipfs/${this.state.memeHash}`}
                   />
                 </a>
-                <p>You will be able to see the source code on <a href=""> my github link</a></p>
+                <p>You will be able to see the source code on <a href="https://github.com/Margotte83/MyPictureDay"> my github link</a></p>
               </div>
             </main>
           </div>
