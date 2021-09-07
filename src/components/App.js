@@ -22,7 +22,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      memeHash: "QmTh1KqdbRT9uSRT7B4H5gho2g5KWukQ6dxeZdT4a957CS",
+      memeHash: "QmYAyfNqxem3AFLYF91VTKNaUdKnUEXBwNhn85vEEA9UL3",
       buffer: null,
       contract: null,
       account: "",
