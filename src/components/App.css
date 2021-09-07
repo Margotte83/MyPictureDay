@@ -1,0 +1,33 @@
+/* Styles go here */
+body{
+    background-color: #f7f7f7;
+}
+div{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+nav a{
+    margin-left: 10px;
+}
+.text-warning{
+color: white!important;
+}
+.justify-content-end {
+    justify-content: flex-end !important;
+    margin-right: 4rem;
+}
+.alert-warning {
+    color: #664d03;
+    background-color: #fff3cd;
+    border-color: #ffecb5;
+    width: max-content;
+    text-align: center;
+    font-weight: bold;
+}
+.alert-primary {
+    color: #084298;
+    background-color: #cfe2ff;
+    border-color: #b6d4fe;
+    width: max-content;
+}
