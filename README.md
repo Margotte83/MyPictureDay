@@ -1,4 +1,4 @@
-# dApp IPFS My Picture Day 2021 🎨
+# dApp IPFS My Picture Day 2021 📸
 ------------------------
 
 We have an image that we will download to the browser using the form
